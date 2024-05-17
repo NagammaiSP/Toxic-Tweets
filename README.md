@@ -1,5 +1,5 @@
 Toxicity Classification Project
-This project involves building machine learning models to classify the toxicity of tweets. The dataset used is a balanced dataset containing tweets labeled as toxic or non-toxic. Various preprocessing steps were applied to the text data, followed by training and evaluating multiple machine learning models.
+#This project involves building machine learning models to classify the toxicity of tweets. The dataset used is a balanced dataset containing tweets labeled as toxic or non-toxic. Various preprocessing steps were applied to the text data, followed by training and evaluating multiple machine learning models.
 Table of Contents
 DatasetPreprocessing
 Model Training and Evaluation
